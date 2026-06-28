@@ -21,8 +21,8 @@ sales_analysis/
 │   ├── region-chart.png
 │   ├── product-chart.png
 │   ├── customer-chart.png
-    ├── month-chart.png
-    └── month-plot.png
+|   ├── month-chart.png
+|   └── month-plot.png
 │
 ├── src/
 │   ├── __init__.py
